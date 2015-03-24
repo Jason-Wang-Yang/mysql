@@ -14,3 +14,19 @@ from (
 	    	) as a
 	    ) as b
 ) as c;
+
+
+//重叠问题
+CREATE TABLE `sessions` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `app` varchar(10) NOT NULL,
+  `usr` varchar(10) NOT NULL,
+  `starttime` time NOT NULL,
+  `endtime` time NOT NULL,
+  PRIMARY KEY (`id`)
+);
+
+insert into sessions (app,usr,starttime,endtime)values('app1','user1','10:00','10:30');
+
+
+
