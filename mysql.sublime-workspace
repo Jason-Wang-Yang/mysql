@@ -1,0 +1,947 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"sessions"
+			],
+			[
+				"Fro",
+				"FROM"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"bir",
+				"birthday"
+			],
+			[
+				"array_s",
+				"array_slice"
+			],
+			[
+				"i",
+				"items"
+			],
+			[
+				"up",
+				"upload_path"
+			],
+			[
+				"f",
+				"filepath"
+			],
+			[
+				"get",
+				"getswfinit"
+			],
+			[
+				"fi",
+				"field"
+			],
+			[
+				"field",
+				"fieldtype"
+			],
+			[
+				"arr",
+				"array2string"
+			],
+			[
+				"get_d",
+				"get_defined_vars"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"all",
+				"allow_add_field"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"fo",
+				"forbid_fields"
+			],
+			[
+				"uq",
+				"unique_fields"
+			],
+			[
+				"Model",
+				"Model_field"
+			],
+			[
+				"m",
+				"modelid"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ex",
+				"exists_field"
+			],
+			[
+				"model",
+				"modelid"
+			],
+			[
+				"Mo",
+				"Model_field"
+			],
+			[
+				"list",
+				"listorder"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"cr",
+				"create_table"
+			],
+			[
+				"s",
+				"siteid"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"t",
+				"tablename"
+			],
+			[
+				"table",
+				"tablename"
+			],
+			[
+				"Pbu",
+				"Public"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"nase",
+				"namespace"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"preg_",
+				"preg_replace"
+			],
+			[
+				"p",
+				"property_value"
+			],
+			[
+				"pro",
+				"property_list"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"cl",
+				"class_name"
+			],
+			[
+				"sa",
+				"say_hellow"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"src",
+				"script	Tag"
+			],
+			[
+				"ea",
+				"each"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"acti",
+				"action"
+			],
+			[
+				"js",
+				"jsonpCallback"
+			],
+			[
+				"po",
+				"postlist"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"so",
+				"social_uid"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"re",
+				"replaybox"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"com",
+				"commentlist"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"if",
+				"iframe	Tag"
+			],
+			[
+				"conl",
+				"console"
+			],
+			[
+				"rem",
+				"remove"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"aler",
+				"alert"
+			],
+			[
+				"div",
+				"div_body"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"fc",
+				"focus"
+			],
+			[
+				"o",
+				"opt"
+			],
+			[
+				"java",
+				"javascript:void"
+			],
+			[
+				"ch",
+				"check_login"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"page",
+				"page=\"4\">4"
+			],
+			[
+				"jque",
+				"jquery"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"ja",
+				"javascript:void"
+			],
+			[
+				"tet",
+				"text"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"ba",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test.sql",
+			"settings":
+			{
+				"buffer_size": 4318,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/reyuan/Code/App8405/Application/Admin/Common/Admin.class.php",
+			"settings":
+			{
+				"buffer_size": 1233,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/reyuan/Code/index.php",
+			"settings":
+			{
+				"buffer_size": 869,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/reyuan/Code/App8405/Conf/define.php",
+			"settings":
+			{
+				"buffer_size": 325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "数据类型.md",
+			"settings":
+			{
+				"buffer_size": 3017,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/php.sublime-build",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:i",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 203.0,
+		"history":
+		[
+			"ssh",
+			"go ",
+			"php",
+			"1",
+			"ls",
+			"run",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Mysql/mysql"
+	],
+	"file_history":
+	[
+		"/E/reyuan/Code/Public/tips/error.html",
+		"/E/reyuan/Code/App8405/Conf/define.php",
+		"/E/reyuan/Code/App8405/Conf/config.php",
+		"/E/reyuan/Code/index.php",
+		"/F/Mysql/mysql/数据类型.md",
+		"/F/Mysql/mysql/test.sql",
+		"/D/wamp/www/text/1.php",
+		"/E/reyuan/Code/config.php",
+		"/E/reyuan/Code/App8405/Modules/Zss/Controller/IndexController.class.php",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/D/wamp/www/text/1.html",
+		"/D/wamp/www/text/2.php",
+		"/D/wamp/www/text/startbootstrap-sb-admin-2-1.0.5/pages/login.html",
+		"/D/wamp/www/text/startbootstrap-sb-admin-2-1.0.5/pages/index.html",
+		"/E/reyuan/Code/ThinkPHP/ThinkPHP.php",
+		"/D/wamp/bin/apache/apache2.4.9/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/wamp/www/wechat/index.php",
+		"/C/Users/Administrator/Desktop/1.php",
+		"/D/Program Files (x86)/Vim/_vimrc",
+		"/D/wamp/www/phpcms/caches/caches_model/caches_data/content_input.class.php",
+		"/D/wamp/www/phpcms/caches/caches_model/caches_data/content_output.class.php",
+		"/D/wamp/www/phpcms/phpcms/model/content_model.class.php",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/db.inc.php",
+		"/C/Users/Administrator/_vimrc",
+		"/D/wamp/www/text/2.ph",
+		"/F/baidu/百度云同步盘/Mysql/新建文件夹/练习准备.sql",
+		"/F/c/c.c",
+		"/C/Users/Administrator/Desktop/php.ini",
+		"/E/blog/1/var/Typecho/Validate.php",
+		"/E/blog/1/var/Widget/Login.php",
+		"/F/baidu/百度云同步盘/Mysql/fill_help_tables-5.6.sql",
+		"/F/baidu/百度云同步盘/Mysql/新建文件夹/复习秘籍.html",
+		"/E/ypydlocal/index.php",
+		"/D/wamp/www/comment/Public/css/login.css",
+		"/C/Users/Administrator/Desktop/于龙百花官网--胡小莉/sqzs.html",
+		"/C/Users/Administrator/Desktop/于龙百花官网--胡小莉/sqcx.html",
+		"/C/Users/Administrator/Desktop/于龙百花官网--胡小莉/于龙百花官网--胡小莉/sqzs.html",
+		"/D/wamp/www/lar/index.php",
+		"/D/tpcms/Application/Common/Conf/tags.php",
+		"/D/tpcms/ThinkPHP/Mode/common.php",
+		"/D/wamp/www/text/startbootstrap-sb-admin-2-1.0.5/dist/css/timeline.css",
+		"/D/wamp/www/lar5/resources/views/welcome.blade.php",
+		"/D/wamp/www/lar5/resources/views/home.blade.php",
+		"/C/Users/Administrator/AppData/Local/Temp/VtMkOK7x",
+		"/C/Users/Administrator/AppData/Local/Temp/6ZNhJREF",
+		"/D/wamp/www/text/startbootstrap-sb-admin-2-1.0.5/bower_components/morrisjs/examples/area.html",
+		"/D/wamp/www/text/grunt/dest/underscore.js",
+		"/D/wamp/www/text/startbootstrap-sb-admin-2-1.0.5/bower_components/morrisjs/Gruntfile.js",
+		"/D/wamp/www/text/grunt/dest/libs.js",
+		"/D/wamp/www/text/startbootstrap-sb-admin-2-1.0.5/index.html",
+		"/D/wamp/www/text/grunt/src/zepto.js",
+		"/E/yii2/vendor/yiisoft/yii2/rbac/Role.php",
+		"/D/wamp/www/phpcms/phpcms/modules/content/content.php",
+		"/D/wamp/www/laravelhelp/docs/5.0/artisan.html",
+		"/D/wamp/www/laravelhelp/docs/5.0/routing.html",
+		"/D/wamp/www/text/startbootstrap-sb-admin-2-1.0.5/bower_components/mocha/mocha.js",
+		"/D/wamp/www/phpcms/phpcms/libs/classes/form.class.php",
+		"/D/wamp/www/phpcms/phpcms/modules/content/sitemodel_field.php",
+		"/D/wamp/www/phpcms/caches/caches_model/caches_data/content_form.class.php",
+		"/D/wamp/www/lar/config/routs.php",
+		"/E/rubygo/mediom/app/models/node.go",
+		"/E/rubygo/mediom/conf/app.conf",
+		"/E/rubygo/mediom/conf/routes",
+		"/D/wamp/www/lar/vendor/composer/ClassLoader.php",
+		"/D/work/1.js",
+		"/D/tpcms/Public/Admin/js/swfupload/handlers.js",
+		"/D/tpcms/Public/Admin/js/swfupload/swfupload.js",
+		"/D/wamp/www/phpcms/phpcms/modules/attachment/templates/swfupload.tpl.php",
+		"/D/wamp/www/phpcms/phpcms/modules/attachment/templates/attachment_dir.tpl.php",
+		"/E/duoshou/PublicController.class.php",
+		"/E/duoshou/index.html",
+		"/E/duoshou/UserController.class.php",
+		"/D/wamp/www/phpcms/phpcms/modules/attachment/attachments.php",
+		"/D/wamp/www/phpcms/phpcms/modules/attachment/templates/album_dir.tpl.php",
+		"/E/duoshou/index.php",
+		"/D/wamp/www/phpcms/statics/js/swfupload/handlers.js",
+		"/D/wamp/www/phpcms/phpcms/modules/attachment/functions/global.func.php",
+		"/D/tpcms/Public/Admin/js/uploadify/uploadify.php",
+		"/D/tpcms/Public/Admin/js/uploadify/check-exists.php",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa0.897/index.php",
+		"/D/tpcms/Public/Admin/js/uploadify/index.php",
+		"/D/wamp/www/phpcms/phpcms/modules/content/templates/content_add.tpl.php",
+		"/D/wamp/www/phpcms/phpcms/modules/attachment/templates/header.tpl.php",
+		"/D/tpcms/Public/Admin/js/swfupload/unpack_swfupload.js",
+		"/D/work/1.php",
+		"/D/work/1.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/D/wamp/www/tp_cms/ThinkPHP/Library/Think/Upload.class.php",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/php.sublime-build",
+		"/D/seowork/Application/Admin/Common/function.php",
+		"/E/lulucms/data/sql/lulucms.sql",
+		"/E/lulucms/admin.php",
+		"/E/lulucms/backend/controllers/AdminController.php",
+		"/E/yii/requirements.php",
+		"/E/go/src/wang.html",
+		"/E/yii2/composer.json",
+		"/E/yii2/common/config/main.php",
+		"/C/Program Files (x86)/Git/bin/vim",
+		"/D/wamp/bin/php/php5.5.12/php.ini",
+		"/E/blog/1/config.inc.php",
+		"/E/yii/composer.json",
+		"/F/baidu/百度云同步盘/微信公众平台搭建与开发揭秘等多个文件/微信公众平台搭建与开发揭秘/书籍配套代码/第五章/关键词回复.php",
+		"/E/sf2/symfony/src/Symfony/Component/BrowserKit/Tests/ResponseTest.php",
+		"/C/Users/Administrator/Desktop/Model.class.php",
+		"/D/seowork/Application/Admin/Model/TreeModel.class.php",
+		"/D/wamp/www/ot/Application/Common/Conf/tags.php",
+		"/D/seowork/Application/Admin/View/Public/index.html",
+		"/C/Users/Administrator/Desktop/api.js",
+		"/C/Users/Administrator/Desktop/api2.js",
+		"/C/Users/Administrator/Downloads/index.php",
+		"/D/wamp/www/ypyd/Application/Home/View/Comment/commentlist.html",
+		"/D/seowork/Application/Admin/View/Public/base.html",
+		"/D/wamp/www/ot/Application/Admin/View/User/index.html",
+		"/E/go/src/sqrt.go",
+		"/D/work/2015.1.28.md",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa0.251/index.php",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa0.126/tipask.class.php",
+		"/D/work/1",
+		"/E/go/2015.1.28",
+		"/E/go/1.go",
+		"/C/Program Files (x86)/Git/etc/gitconfig",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/index.php",
+		"/D/wamp/www/comment/Application/Home/View/Public/login.html",
+		"/D/wamp/www/tpcms/Application/Admin/Controller/FieldController.class.php",
+		"/D/wamp/www/tpcms/Application/Admin/Model/FieldModel.class.php",
+		"/D/wamp/www/tpcms/Application/Admin/Controller/ModelController.class.php",
+		"/D/wamp/www/tpcms/Application/Admin/View/Field/add.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pages",
+			"budle",
+			"larcms",
+			".so",
+			"extension",
+			"redis.so",
+			"redis",
+			"copyfrom_data",
+			"style_color",
+			"add",
+			"datatime",
+			"public_priview",
+			"$upload_path",
+			"fileext",
+			"upload_path",
+			"uploadError",
+			"album_cancel",
+			"upload",
+			"completeURL",
+			"path",
+			"image",
+			"value_data",
+			"function keyword(",
+			"keyword(",
+			"keyword",
+			"qxcool",
+			"0x",
+			"import",
+			"exists_field",
+			"get",
+			"cache",
+			"cache()",
+			"cache(",
+			"cache",
+			"query",
+			"/<div id=\\\"page_res\\\">.*?<span class=\\\"keyword\\\">(.*?)<\\/span>.*?<\\/div>/is",
+			"phpcms_menu",
+			"menu",
+			"alert",
+			"testPwd",
+			"tupian",
+			"%E6%B5%81%E4%BA%91%E8%BD%A9%E4%BF%A1%E6%81%AF%E5%92%A8%E8%AF%A2_files",
+			"images",
+			"php",
+			"Xdebug",
+			"xdebug",
+			"SMILIES",
+			"JASON",
+			"$",
+			"domain",
+			"api",
+			"BulkDel",
+			"console",
+			"debug",
+			"xdebug",
+			"list",
+			"at(",
+			"injectStylesheet",
+			"duoshuoQuery ",
+			"createRange",
+			"REMOTE",
+			"ds-replybox",
+			"http://wyjason.duoshuo.com/login",
+			"center_pos",
+			"madel",
+			"A",
+			"w",
+			"vir",
+			"dialog",
+			"Dialog",
+			"ds-wrapper",
+			"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix ui-draggable-handle",
+			"open",
+			"w",
+			"Widgets",
+			"dialog",
+			"api/post/create",
+			"create",
+			"ds-post-button",
+			"/api/posts",
+			"create.json",
+			"jQuery",
+			"ds-post-reply",
+			"page1",
+			"page",
+			"page1",
+			"swfupload",
+			"uploadify-button ",
+			"swfupload",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"seo",
+			"v9_menu",
+			"images",
+			"__IMG__",
+			"img",
+			"SMILIES",
+			"$$",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4317,
+								4317
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"syntax": "Packages/SQL/SQL.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2622.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/reyuan/Code/App8405/Application/Admin/Common/Admin.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								145
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 342.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/reyuan/Code/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/reyuan/Code/App8405/Conf/define.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "数据类型.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mysql.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\wamp\\www\\text\\text.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
