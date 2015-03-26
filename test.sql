@@ -150,3 +150,81 @@ group by app;
 set @a='2011-01-01';
 select WEEKDAY(@a),DAYOFWEEK(@a),DAYNAME(@a);
 set lc_time_names='zh_CN';//控制 DAYNAME显示中文星期
+
+
+/************************************************************************************
+*************************************************************************************/
+
+
+查询处理
+
+练习sql
+
+create table customers
+(
+    customer_id varchar(10) not null,
+    city varchar(10) not null,
+    primary key(customer_id)
+ )engine=INNODB;
+insert into customers values ('163','HangZhou'),('9you','ShangHai'),('TX','HangZhou'),('baidu','HangZhou');
+
+create table orders
+(
+	order_id int not null AUTO_INCREMENT,
+	customer_id varchar(10),
+	primary key(order_id)
+)	engine=INNODB;
+insert into orders (customer_id)values ('163'),('163'),('9you'),('9you'),('9you'),('TX'),(null);
+
+select c.customer_id,count(o.order_id) as num  
+from  customers as c
+left join orders as o
+on c.customer_id =o.customer_id
+where c.city = 'HangZhou'
+group by c.customer_id
+having count(o.order_id) <2
+order by num desc
+
+
+/************************************************************************************************************/
+//子查询可以解决的经典问题
+
+1.行号
+准备数据
+
+create table sales (
+	empid varchar(10) not null,
+	mgrid  varchar(10) not null,
+	qty int not null,
+	primary key (empid)
+);
+insert into sales values ('A','Z',300);
+insert into sales values ('B','X',100);
+insert into sales values ('C','X',200);
+insert into sales values ('D','Y',200);
+insert into sales values ('E','Z',250);
+insert into sales values ('F','Z',300);
+insert into sales values ('G','X',100);
+insert into sales values ('H','Y',150);
+insert into sales values ('I','X',250);
+insert into sales values ('J','Z',100);
+insert into sales values ('K','Y',200);
+
+select empid ,( select count(*) from sales as t2 where t2.empid <= t1.empid ) as rownum from sales as t1;
+
+2分区
+
+select dept_no,emp_no ,
+(
+	select count(*) 
+	from dept_manager as s2 
+	where s1.dept_no = s2.dept_no
+	and s2.emp_no <= s1.emp_no
+) as rownum 
+from dept_manager as s1 order by dept_no , emp_no;	
+
+
+
+3缺失范围
+
+select a+1 as start_range , (select min(a)-1 from t as C where C.a>g.a) as end_range from t as g where not exists (select * from t as B  where g.a+1=B.a) and a < (select max(a) from t)
