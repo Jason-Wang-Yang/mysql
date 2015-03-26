@@ -228,3 +228,40 @@ from dept_manager as s1 order by dept_no , emp_no;
 3缺失范围
 
 select a+1 as start_range , (select min(a)-1 from t as C where C.a>g.a) as end_range from t as g where not exists (select * from t as B  where g.a+1=B.a) and a < (select max(a) from t)
+
+
+
+
+//联接查询
+
+
+滑动订单问题
+
+create table monthlyorders(
+	ordermonth DATE,
+	ordernum int unsigned,
+	PRIMARY key (ordermonth)
+);
+insert into monthlyorders values ('2010-02-01',23);
+insert into monthlyorders values ('2010-03-01',26);
+insert into monthlyorders values ('2010-04-01',24);
+insert into monthlyorders values ('2010-05-01',27);
+insert into monthlyorders values ('2010-06-01',26);
+insert into monthlyorders values ('2010-07-01',32);
+insert into monthlyorders values ('2010-08-01',34);
+insert into monthlyorders values ('2010-09-01',30);
+insert into monthlyorders values ('2010-10-01',31);
+insert into monthlyorders values ('2010-11-01',32);
+insert into monthlyorders values ('2010-12-01',33);
+insert into monthlyorders values ('2011-01-01',31);
+insert into monthlyorders values ('2011-02-01',34);
+insert into monthlyorders values ('2011-03-01',34);
+insert into monthlyorders values ('2011-04-01',38);
+insert into monthlyorders values ('2011-05-01',39);
+insert into monthlyorders values ('2011-06-01',35);
+insert into monthlyorders values ('2011-07-01',49);
+insert into monthlyorders values ('2011-08-01',56);
+insert into monthlyorders values ('2011-09-01',55);
+insert into monthlyorders values ('2011-10-01',74);
+insert into monthlyorders values ('2011-11-01',75);
+insert into monthlyorders values ('2011-12-01',14);	
