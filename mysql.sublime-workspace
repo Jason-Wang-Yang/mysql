@@ -4,16 +4,60 @@
 		"selected_items":
 		[
 			[
+				"prima",
+				"PRIMARY"
+			],
+			[
+				"de",
+				"dept_no"
+			],
+			[
+				"emp",
+				"emp_no"
+			],
+			[
+				"dept_",
+				"dept_no"
+			],
+			[
+				"orde",
+				"order"
+			],
+			[
+				"p",
+				"primary"
+			],
+			[
+				"c",
+				"customers"
+			],
+			[
+				"cus",
+				"customers"
+			],
+			[
+				"cu",
+				"customer_id"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"e",
+				"engine"
+			],
+			[
+				"or",
+				"order_id"
+			],
+			[
 				"se",
 				"sessions"
 			],
 			[
 				"Fro",
 				"FROM"
-			],
-			[
-				"c",
-				"count"
 			],
 			[
 				"bir",
@@ -84,10 +128,6 @@
 				"modelid"
 			],
 			[
-				"va",
-				"value"
-			],
-			[
 				"ex",
 				"exists_field"
 			],
@@ -150,10 +190,6 @@
 			[
 				"preg_",
 				"preg_replace"
-			],
-			[
-				"p",
-				"property_value"
 			],
 			[
 				"pro",
@@ -343,15 +379,39 @@
 			"file": "test.sql",
 			"settings":
 			{
-				"buffer_size": 4318,
+				"buffer_size": 7721,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/E/reyuan/Code/App8405/Application/Admin/Common/Admin.class.php",
+			"file": "/E/reyuan/Code/App8405/Application/Admin/View/Index/Index.html",
 			"settings":
 			{
-				"buffer_size": 1233,
+				"buffer_size": 4257,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/reyuan/Code/App8405/Think/Library/Vendor/Tree.class.php",
+			"settings":
+			{
+				"buffer_size": 6021,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/wamp/www/phpcms/phpcms/templates/default/config.php",
+			"settings":
+			{
+				"buffer_size": 5266,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/wamp/www/text/1.php",
+			"settings":
+			{
+				"buffer_size": 990,
 				"line_ending": "Windows"
 			}
 		},
@@ -375,7 +435,7 @@
 			"file": "数据类型.md",
 			"settings":
 			{
-				"buffer_size": 3017,
+				"buffer_size": 3231,
 				"line_ending": "Windows"
 			}
 		}
@@ -446,6 +506,9 @@
 	],
 	"file_history":
 	[
+		"/E/reyuan/Code/App8405/Think/Library/Vendor/Page.class.php",
+		"/E/reyuan/Code/config.php",
+		"/E/reyuan/Code/App8405/Application/Admin/Common/Admin.class.php",
 		"/E/reyuan/Code/Public/tips/error.html",
 		"/E/reyuan/Code/App8405/Conf/define.php",
 		"/E/reyuan/Code/App8405/Conf/config.php",
@@ -453,7 +516,6 @@
 		"/F/Mysql/mysql/数据类型.md",
 		"/F/Mysql/mysql/test.sql",
 		"/D/wamp/www/text/1.php",
-		"/E/reyuan/Code/config.php",
 		"/E/reyuan/Code/App8405/Modules/Zss/Controller/IndexController.class.php",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
 		"/D/wamp/www/text/1.html",
@@ -571,9 +633,7 @@
 		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/index.php",
 		"/D/wamp/www/comment/Application/Home/View/Public/login.html",
 		"/D/wamp/www/tpcms/Application/Admin/Controller/FieldController.class.php",
-		"/D/wamp/www/tpcms/Application/Admin/Model/FieldModel.class.php",
-		"/D/wamp/www/tpcms/Application/Admin/Controller/ModelController.class.php",
-		"/D/wamp/www/tpcms/Application/Admin/View/Field/add.html"
+		"/D/wamp/www/tpcms/Application/Admin/Model/FieldModel.class.php"
 	],
 	"find":
 	{
@@ -706,7 +766,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -715,15 +775,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4318,
+						"buffer_size": 7721,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4317,
-								4317
+								7720,
+								6525
 							]
 						],
 						"settings":
@@ -732,37 +792,36 @@
 							"syntax": "Packages/SQL/SQL.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2622.0,
+						"translation.y": 4446.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/E/reyuan/Code/App8405/Application/Admin/Common/Admin.class.php",
+					"file": "/E/reyuan/Code/App8405/Application/Admin/View/Index/Index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1233,
+						"buffer_size": 4257,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								145,
-								145
+								949,
+								949
 							]
 						],
 						"settings":
 						{
 							"colorcode": true,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 342.0,
+						"translation.y": 2166.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
@@ -770,11 +829,11 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/E/reyuan/Code/index.php",
+					"file": "/E/reyuan/Code/App8405/Think/Library/Vendor/Tree.class.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 869,
+						"buffer_size": 6021,
 						"regions":
 						{
 						},
@@ -799,6 +858,93 @@
 				},
 				{
 					"buffer": 3,
+					"file": "/D/wamp/www/phpcms/phpcms/templates/default/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 2850.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/wamp/www/text/1.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/E/reyuan/Code/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
 					"file": "/E/reyuan/Code/App8405/Conf/define.php",
 					"semi_transient": false,
 					"settings":
@@ -823,16 +969,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 7,
 					"file": "数据类型.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3017,
+						"buffer_size": 3231,
 						"regions":
 						{
 						},
@@ -849,10 +995,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 285.0,
+						"translation.y": 3021.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 6,
 					"type": "text"
 				}
 			]
